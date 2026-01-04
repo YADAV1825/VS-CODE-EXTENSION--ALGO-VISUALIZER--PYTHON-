@@ -1,9 +1,10 @@
 {
   "name": "algo-visualizer-python",
   "displayName": "Algo visualizer (Python)",
-  "description": "Visualize Python, C, C++, and Java execution line-by-line. Made by Rohit Yadav, NIT Jalandhar.",
-  "version": "1.0.0",
+  "description": "Visualize Python execution line-by-line. Made by Rohit Yadav, NIT Jalandhar.",
+  "version": "1.0.1",  
   "publisher": "YADAV1825RohitYadav",
+  "icon": "icon.jpg",    
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -35,6 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YADAV1825/VS-CODE-EXTENSION--ALGO-VISUALIZER--PYTHON-" 
+    "url": "https://github.com/YADAV1825/algo-viz" 
   }
 }
