@@ -13,11 +13,16 @@ A lightweight code visualizer for Python.
 ---
 **Made by Rohit Yadav | B.Tech NIT Jalandhar**
 
+
 ---
-![alt text](image-2.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YADAV1825/VS-CODE-EXTENSION--ALGO-VISUALIZER--PYTHON-/master/image.png" alt="Visualizer Demo 1" />
+</div>
 
 ---
 
-![alt text](image.png)
+<div align="center">
+  <br><br><br> <img src="https://raw.githubusercontent.com/YADAV1825/VS-CODE-EXTENSION--ALGO-VISUALIZER--PYTHON-/master/image-2.png" alt="Visualizer Demo 2" />
+</div>
 
 ---
