@@ -1,9 +1,9 @@
 {
   "name": "algo-visualizer-python",
   "displayName": "Algo visualizer (Python)",
-  "description": "Lightweight Algorithm Visualizer for Python. Made by Rohit Yadav, B.Tech NIT Jalandhar.",
+  "description": "Visualize Python, C, C++, and Java execution line-by-line. Made by Rohit Yadav, NIT Jalandhar.",
   "version": "1.0.0",
-  "publisher": "RohitYadav",
+  "publisher": "YADAV1825RohitYadav",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -32,5 +32,9 @@
     "@typescript-eslint/parser": "^5.59.0",
     "eslint": "^8.38.0",
     "typescript": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YADAV1825/VS-CODE-EXTENSION--ALGO-VISUALIZER--PYTHON-" 
   }
 }
