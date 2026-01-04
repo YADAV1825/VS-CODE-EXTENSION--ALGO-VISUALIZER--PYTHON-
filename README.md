@@ -2,7 +2,6 @@
 A lightweight code visualizer for Python.
 
 ## Features
-- **Multi-Language:** Supports Python, C, C++, and Java.
 - **Line-by-Line:** Step through your code execution.
 - **Visuals:** See variables (lists, vectors) update in real-time.
 ---
