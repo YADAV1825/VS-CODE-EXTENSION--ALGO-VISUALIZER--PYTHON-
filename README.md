@@ -1,4 +1,6 @@
-# Algo visualizer (Python)
+# Algo visualizer (Python) 
+
+## https://marketplace.visualstudio.com/items?itemName=YADAV1825RohitYadav.algo-visualizer-python
 A lightweight code visualizer for Python.
 
 ## Features
